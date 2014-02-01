@@ -1,13 +1,11 @@
 @charset "utf-8"; 
 
-/*
-
-Shorthand:
+/* Shorthand:
 
 margin: 40px; all 4 sides
 margin: 40px auto; top/bottom right/left
 margin: 40px auto 0; top right/left bottom
-margin; 40px 30px 5px 10px; top right bottom left
+margin: 40px 30px 5px 10px; top right bottom left
 
 Start at the top, then continue clockwise around the box.
 
@@ -16,9 +14,7 @@ Units of Measurement:
 Width = %
 Height = rem
 Type = rem
-Graphics = px (e.g a boarder would be a "graphic")
-
-*/ 
+Graphics = px (e.g a boarder would be a "graphic") */ 
 
 /* Controls the size of viewport */
 
